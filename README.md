@@ -1,5 +1,5 @@
-# Hi there 👋 , I'm Bagus!
-Currently I am open to any opportunity especially in IT as a Mobile Developer and iOS Developer. 
+# Hi there 👋 , I'm Anggiramadyansyah!
+Currently I am open to any opportunity especially in IT and GNU/Linux Enthusiast. 
 
 ### Tools:
 <p>
