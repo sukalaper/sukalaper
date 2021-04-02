@@ -18,7 +18,7 @@ Currently I am open to any opportunity especially in IT and GNU/Linux Enthusiast
     - 👯 I’m looking to collaborate on ... </br>
     - 🤔 I’m looking for help with ... </br>
     - 💬 Ask me about anything.</br>
-    - 📫 How to reach me: <a href="mailto:goodfe@yahoo.com">Email me!</a>  </br>
+    - 📫 How to reach me: <a href="anggirrr31@gmail.com">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
     - ⚡ Fun fact: ... </br>
 </details>
