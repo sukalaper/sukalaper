@@ -1,11 +1,6 @@
 # Hi there 👋 , I'm Anggiramadyansyah!
 Currently I am open to any opportunity especially in IT and GNU/Linux Enthusiast. 
 
-### Tools:
-<p>
-    <img src="https://gpvc.arturio.dev/bagusfe" />
-</p>
-
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
