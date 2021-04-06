@@ -16,5 +16,5 @@ Currently I am open to any opportunity especially in IT and GNU/Linux Enthusiast
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=sukalaper&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukalaper&layout=compact" height=180 />
-    (https://github-readme-stats.vercel.app/api/top-langs/?username=sukalaper&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukalaper&layout=compact)]/>
 </p>
