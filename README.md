@@ -1,5 +1,4 @@
-# Hi there 👋
-# I'm Anggiramadyansyah!
+# Hi There! I'm Anggiramadyansyah.
 Currently I am open to any opportunity especially in IT, Fingerboard (Techdech wannabe), Art, GNU/Linux Enthusiast, And More. . .
 
 ### Stats:
