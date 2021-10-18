@@ -1,5 +1,5 @@
 # Hi, I'm Anggiramadyansyah!
-Currently I am open to any opportunity especially in IT, Fingerboard (Techdech wannabe), Art, GNU/Linux Enthusiast, And More. . .
+I'm Just n00b as fuck, trust me.
 
 ### Stats:
 <details>
