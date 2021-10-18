@@ -1,5 +1,5 @@
 # Hi, I'm Anggiramadyansyah!
-I'm Just n00b as fuck, trust me.
+I'm just n00b as fuck, trust me.
 
 ### Stats:
 <details>
