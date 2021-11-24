@@ -1,4 +1,4 @@
-# Hi, I'm Anggiramadyansyah!
+# Hi There, I'm Anggiramadyansyah!
 I'm just n00b as fuck, trust me.
 
 ### Stats:
