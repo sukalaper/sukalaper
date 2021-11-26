@@ -9,5 +9,6 @@ I'm just n00b as fuck, trust me.
 </details>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=sukalaper&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukalaper&langs_count=8https://github.com/anuraghazra/github-readme-stats&layout=compact" height=180 />
 </p>
