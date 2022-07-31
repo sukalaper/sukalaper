@@ -1,4 +1,4 @@
-# Hi There!
+# Hi There.
 I'm just n00b as fuck, trust me.
 
 ### Stats:
