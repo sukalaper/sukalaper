@@ -10,13 +10,14 @@ and please don't think I'm a programmer.
 again, please, don't.
 
 about the directory folder, maybe later I will place it like this (maybe it can change over time).
-  README
-     \
+README
+    \
      $DIR
-    /    \
-README.md \
-           \
+   /      \
+README.md  \
           $DIR
+
+
 #NB : 
 sukalaper?
 easy, it's just a name I've used since high school.
