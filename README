@@ -19,6 +19,8 @@ README
    /      \
 README.md  \
           $DIR
+you may be wondering why I use double README and README.md, right?
+I like the font that appears in README over README.md because it still looks simple, but on the other hand for a detailed explanation of whatever I write later, I will continue to use README.md with style, writing conditions, and all the complexities of markdown.
 
 // about.
 // ------
