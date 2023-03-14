@@ -1,5 +1,4 @@
 <h3 align="center">
-	<p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
 	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1240&pause=2800&color=fafafa&center=true&width=600&lines=Hi,+there!;Im,+An+Enigma."
 </h3>
 	
