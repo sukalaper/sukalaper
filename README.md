@@ -6,10 +6,6 @@
   <a href="mailto:anggirrr31@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
   </a>
-  <a href="https://discordapp.com/users/909294977698369557"> </a>
-  <a href="https://t.me/sukalaper">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white">
-  <a/>
   <a href="https://open.spotify.com/playlist/79XudxhnmjjhqKk6ucUec3?si=iNTOAu8PQxGRmKkStZnO3A">
     <img src="https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=fff&style=flat">
   </a><br/>
