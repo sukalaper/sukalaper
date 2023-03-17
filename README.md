@@ -6,9 +6,6 @@
   <a href="mailto:anggirrr31@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
   </a>
-  <a href="https://open.spotify.com/playlist/79XudxhnmjjhqKk6ucUec3?si=iNTOAu8PQxGRmKkStZnO3A">
-    <img src="https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=fff&style=flat">
-  </a><br/>
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </div>
 
