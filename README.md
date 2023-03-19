@@ -3,9 +3,6 @@
 </h3>
 	
 <div align="center">
-  <a href="mailto:anggirrr31@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
-  </a>
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </div>
 
