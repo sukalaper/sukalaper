@@ -1,5 +1,5 @@
 <h3 align="center">
-  Hi there! Im an Enigma.
+  Hi there! I'm an Enigma.
 </h3>	
 
 
