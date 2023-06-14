@@ -1,6 +1,4 @@
-<h3 align="center">
+<p align="center">
   Hi there! I'm an Enigma.
-</h3>	
-
-
+</p>
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
