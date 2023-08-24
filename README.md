@@ -1,6 +1,4 @@
-> *When you gone, would you even turn to say*
->
-> "**I don’t love you like I did yesterday**”
+> *Trust no one*.
 
 
 
